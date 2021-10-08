@@ -1,0 +1,24 @@
+.main{
+	font-size:25px;
+	margin-bottom:10px;
+}
+.all{
+	width:600px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+.container{
+	padding:10px;
+	width:100%;
+	background-color:#F1F1F1;
+	text-transform:uppercase;
+	position:relative;
+}
+.container div{
+	padding:5px;
+	font-size: 2.5vh;
+	text-align: center;
+}
